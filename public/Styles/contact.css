@@ -1,0 +1,23 @@
+h1{
+    font-size: 2.5em;
+}
+html {
+    height: 100%;
+}
+
+body {
+    background-image: url('../Imagenes/futbol_infantil_waifu2x_art_noise3_scale_tta_1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+p{
+    font-size: 2.5em;
+}
+.mail{
+    font-size: 2.5em;
+}
+.text{
+    font-size: 1.3em;
+    text-align: center;
+}
